@@ -6,7 +6,7 @@
         {
             var input = Console.ReadLine()
             .ToLower()                              
-            .Split(' ', StringSplitOptions.RemoveEmptyEntries) 
+            .Split(' ') 
             .GroupBy(x => x)
             .ToDictionary(g => g.Key, g => g.Count());
 
