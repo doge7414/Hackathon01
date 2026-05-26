@@ -2,4 +2,6 @@
   <Project Path="CharacterCounter.cs/CharacterCounter.cs.csproj" Id="76297b9a-40f9-4b75-91d9-7c9c5411355d" />
   <Project Path="convert/convert.csproj" Id="3d6cae1e-26e2-411b-bb24-d21f85d476d3" />
   <Project Path="Hackathon01-1/Hackathon01-1.csproj" />
+  <Project Path="LifeNumbers/LifeNumbers.csproj" Id="a00ff817-7b48-4bdc-b40f-e33c3285afe1" />
+  <Project Path="NumberGuessing/NumberGuessing.csproj" Id="f428d6e2-f678-4636-b6b2-4c5074dffc7b" />
 </Solution>
